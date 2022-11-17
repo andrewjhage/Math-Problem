@@ -1,9 +1,3 @@
-/*Andrew Hage
- * 10/25/2022
- * Module 1.5 Math Equation
- * SDEV200
- */
-
 public class Math_Problem {
     public static void main(String[] args) {
         // Display information
